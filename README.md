@@ -1,0 +1,1 @@
+version8.1 of my jn-notebook to parse, extract and download from SEC-EDGAR database: any SEC 10K stock's BalanceSheet, IncomeStatement, CF-Statement, on your screen, and instant XLSX download. No more searching through pages of 10K's to find the data you want. Enjoy.
